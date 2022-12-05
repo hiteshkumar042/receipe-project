@@ -1,7 +1,5 @@
-This is a project for recipes using html & CSS, project was fairly basic and easy. Did not learn anything new, but it was great to refresh memory.
+This is a project for recipes using html & CSS, project was basic and easy.
 
-Later practiced and added CSS properties. Fun stuff!
-
-Deployed on Github, see live from the below link.
+Deployed on Github Page, Please refer to the below link for a live view of the web page.
 
 https://hiteshkumar794.github.io/receipe-project/
